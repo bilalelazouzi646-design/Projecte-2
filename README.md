@@ -6,4 +6,4 @@
 
 ## Resum del projecte
 
-Pràctica per aprendre a crear un repositori local amb Git, connectar-lo amb GitHub per SSH i pujar els canvis amb add, commit i push.
+Pràctica per aprendre a crear un repositori local amb Git, connectar-lo amb GitHub per SSH i pujar els canvis amb add, commit i push. 
