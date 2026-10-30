@@ -1,6 +1,6 @@
 # Pràctica 02: Introducció a la programació amb Python
 
-- **Alumne/a:** Bilal El Azouzi
+- **Alumne:** Bilal El Azouzi
 - **Curs:** 2n SMX
 - **Mòdul:** Projecte Intermodular
 
